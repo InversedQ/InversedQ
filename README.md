@@ -1,0 +1,4 @@
+- 👋 Hello there, I’m @InversedQ
+- 👨‍💻 I’m currently learning python
+- 👀 I'm eager to get any advice or information from anyone about python
+- 📨 You can contact me at inversedq@gmail.com
