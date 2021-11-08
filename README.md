@@ -1,1 +1,1 @@
-- 👋 Hello there, I’m @InversedQ
+hello there, I’m @InversedQ
